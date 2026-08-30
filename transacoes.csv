@@ -1,0 +1,41 @@
+id,data,cliente_id,tipo,valor,descricao,categoria
+1,2026-01-05,CLI001,credito,3500.00,Salário janeiro,salario
+2,2026-01-12,CLI002,debito,180.50,Supermercado,compra
+3,2026-01-20,CLI003,debito,45.00,Farmácia,saude
+4,2026-01-25,CLI001,debito,120.00,Restaurante,alimentacao
+5,2026-02-03,CLI004,debito,200.00,Conta de água,conta
+6,2026-02-14,CLI003,credito,15000.00,Transferência suspeita,transferencia
+7,2026-02-18,CLI002,debito,320.00,Conta de luz,conta
+8,2026-02-22,CLI005,credito,2800.00,Salário fevereiro,salario
+9,2026-03-01,CLI001,credito,3500.00,Salário março,salario
+10,2026-03-10,CLI003,debito,99.90,Streaming,assinatura
+11,2026-03-15,CLI004,debito,540.00,Compra eletrônicos,compra
+12,2026-03-20,CLI002,credito,12000.00,Venda de veículo,transferencia
+13,2026-03-28,CLI005,debito,75.30,Uber,transporte
+14,2026-04-02,CLI001,debito,210.00,Supermercado,compra
+15,2026-04-09,CLI003,credito,3200.00,Salário abril,salario
+16,2026-04-15,CLI004,debito,89.90,Assinatura streaming,assinatura
+17,2026-04-21,CLI002,debito,150.00,Farmácia,saude
+18,2026-04-27,CLI005,credito,4200.00,Freelance,salario
+19,2026-05-03,CLI001,credito,3500.00,Salário maio,salario
+20,2026-05-10,CLI003,debito,600.00,Aluguel,transferencia
+21,2026-05-14,CLI004,debito,45.00,Lanche,alimentacao
+22,2026-05-19,CLI002,credito,900.00,Reembolso,transferencia
+23,2026-05-25,CLI005,debito,320.00,Conta de luz,conta
+24,2026-06-01,CLI001,credito,3500.00,Salário junho,salario
+25,2026-06-08,CLI003,debito,180.00,Supermercado,compra
+26,2026-06-15,CLI004,credito,11000.00,Venda de ações,transferencia
+27,2026-06-20,CLI002,debito,60.00,Farmácia,saude
+28,2026-06-25,CLI005,debito,250.00,Internet,conta
+29,2026-02-08,,debito,200.00,Sem cliente,transferencia
+30,2026-01-20,CLI001,debito,abc,Erro de sistema,compra
+31,2026-03-05,CLI002,transferencia,150.00,Tipo inválido,compra
+32,2026-04-11,CLI003,debito,-50.00,Valor negativo,compra
+33,13-05-2026,CLI004,credito,300.00,Data mal formatada,salario
+34,2026-06-31,CLI005,debito,80.00,Data inexistente,compra
+35,2026-03-15,CLI002,debito,0,Valor zero,compra
+36,2026-01-05,CLI001,credito,3500.00,Salário janeiro,salario
+37,2026-03-01,CLI001,credito,3500.00,Salário março,salario
+38,2026-06-15,CLI004,credito,11000.00,Venda de ações,transferencia
+39,2026-07-02,CLI002,credito,25000.00,Investimento resgatado,transferencia
+40,2026-07-10,CLI005,debito,,Valor vazio,compra
