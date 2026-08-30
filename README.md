@@ -40,13 +40,9 @@ clearbank-analise/
 
 O Colab já vem com `pandas` e `matplotlib` instalados.
 
-## Para os requisitos opcionais (a solução principal não precisa de nada além do Python):
+## Para os requisitos opcionais (a solução principal não precisa de nada além do Python/Colab):
 
-### Jupyter Notebook local
-
-Requer **Python 3.10 ou superior**.
-
-Instale o Jupyter e as bibliotecas dos requisitos opcionais:
+Instale as bibliotecas dos requisitos opcionais:
 
 ```bash
 python -m pip install --user pandas matplotlib notebook
